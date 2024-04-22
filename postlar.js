@@ -237,6 +237,6 @@ var daryoPostlari = [
             "https://daryo.uz/2018/11/20/samarqandda-avval-raqsga-tushib-so%ca%bbng-avtomobil-kapotida-o%ca%bbtirgan-qizlarning-kimligi-aniqlandi/": "935921"
         }
     },
-   
+    
 
 ];
